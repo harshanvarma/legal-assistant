@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "live_law",
+    "source_type": "legal",
+    "query": "Use specific keywords like 'right to privacy in India', 'Indian Constitution', 'Supreme Court judgments', and 'data protection'. High Court",
+    "documents": [],
+    "search_url": "https://www.livelaw.in/search?q=Use+specific+keywords+like+%27right+to+privacy+in+India%27%2C+%27Indian+Constitution%27%2C+%27Supreme+Court+judgments%27%2C+and+%27data+protection%27.+High+Court"
+  },
+  "timestamp": 1748083140.369521
+}

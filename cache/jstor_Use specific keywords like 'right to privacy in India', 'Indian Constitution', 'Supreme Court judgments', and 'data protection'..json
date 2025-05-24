@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "jstor",
+    "source_type": "academic",
+    "query": "Use specific keywords like 'right to privacy in India', 'Indian Constitution', 'Supreme Court judgments', and 'data protection'.",
+    "documents": [],
+    "search_url": "https://www.jstor.org/action/doBasicSearch?Query=Use+specific+keywords+like+%27right+to+privacy+in+India%27%2C+%27Indian+Constitution%27%2C+%27Supreme+Court+judgments%27%2C+and+%27data+protection%27.+law+india"
+  },
+  "timestamp": 1748083132.42814
+}

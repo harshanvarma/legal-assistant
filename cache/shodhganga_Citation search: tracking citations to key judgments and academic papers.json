@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "shodhganga",
+    "source_type": "academic",
+    "query": "Citation search: tracking citations to key judgments and academic papers",
+    "documents": [],
+    "search_url": "https://shodhganga.inflibnet.ac.in/simple-search?query=Citation+search%3A+tracking+citations+to+key+judgments+and+academic+papers"
+  },
+  "timestamp": 1748083679.431743
+}

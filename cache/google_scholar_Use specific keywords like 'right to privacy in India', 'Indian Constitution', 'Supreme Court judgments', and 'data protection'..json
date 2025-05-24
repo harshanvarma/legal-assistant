@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "google_scholar",
+    "source_type": "academic",
+    "query": "Use specific keywords like 'right to privacy in India', 'Indian Constitution', 'Supreme Court judgments', and 'data protection'.",
+    "documents": [],
+    "search_url": "https://scholar.google.com/scholar?q=Use+specific+keywords+like+%27right+to+privacy+in+India%27%2C+%27Indian+Constitution%27%2C+%27Supreme+Court+judgments%27%2C+and+%27data+protection%27.+india+law"
+  },
+  "timestamp": 1748083133.8300312
+}

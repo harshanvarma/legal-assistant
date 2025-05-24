@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "shodhganga",
+    "source_type": "academic",
+    "query": "Search academic databases like JSTOR, HeinOnline, and Westlaw for relevant articles and journals. landmark judgment",
+    "documents": [],
+    "search_url": "https://shodhganga.inflibnet.ac.in/simple-search?query=Search+academic+databases+like+JSTOR%2C+HeinOnline%2C+and+Westlaw+for+relevant+articles+and+journals.+landmark+judgment"
+  },
+  "timestamp": 1748083130.133773
+}

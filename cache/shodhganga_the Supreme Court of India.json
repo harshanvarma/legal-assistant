@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "shodhganga",
+    "source_type": "academic",
+    "query": "the Supreme Court of India",
+    "documents": [],
+    "search_url": "https://shodhganga.inflibnet.ac.in/simple-search?query=the+Supreme+Court+of+India"
+  },
+  "timestamp": 1748083111.627392
+}

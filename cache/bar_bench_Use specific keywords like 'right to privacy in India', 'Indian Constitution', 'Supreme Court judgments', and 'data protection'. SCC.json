@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "bar_bench",
+    "source_type": "legal",
+    "query": "Use specific keywords like 'right to privacy in India', 'Indian Constitution', 'Supreme Court judgments', and 'data protection'. SCC",
+    "documents": [],
+    "search_url": "https://www.barandbench.com/search?q=Use+specific+keywords+like+%27right+to+privacy+in+India%27%2C+%27Indian+Constitution%27%2C+%27Supreme+Court+judgments%27%2C+and+%27data+protection%27.+SCC"
+  },
+  "timestamp": 1748083143.678884
+}

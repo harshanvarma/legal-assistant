@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "jstor",
+    "source_type": "academic",
+    "query": "Search academic databases like JSTOR, HeinOnline, and Westlaw for relevant articles and journals. landmark judgment",
+    "documents": [],
+    "search_url": "https://www.jstor.org/action/doBasicSearch?Query=Search+academic+databases+like+JSTOR%2C+HeinOnline%2C+and+Westlaw+for+relevant+articles+and+journals.+landmark+judgment+law+india"
+  },
+  "timestamp": 1748083128.259236
+}

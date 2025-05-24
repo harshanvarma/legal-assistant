@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "supreme_court",
+    "source_type": "legal",
+    "query": "the Supreme Court",
+    "documents": [],
+    "search_url": "https://main.sci.gov.in/?q=the+Supreme+Court"
+  },
+  "timestamp": 1748083112.7512908
+}

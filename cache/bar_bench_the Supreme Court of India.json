@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "bar_bench",
+    "source_type": "legal",
+    "query": "the Supreme Court of India",
+    "documents": [],
+    "search_url": "https://www.barandbench.com/search?q=the+Supreme+Court+of+India"
+  },
+  "timestamp": 1748083110.778347
+}

@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "live_law",
+    "source_type": "legal",
+    "query": "Database search: Supreme Court judgments, academic databases, government reports Indian law",
+    "documents": [],
+    "search_url": "https://www.livelaw.in/search?q=Database+search%3A+Supreme+Court+judgments%2C+academic+databases%2C+government+reports+Indian+law"
+  },
+  "timestamp": 1748083670.1073
+}

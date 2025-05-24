@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "lawctopus",
+    "source_type": "legal",
+    "query": "Search academic databases like JSTOR, HeinOnline, and Westlaw for relevant articles and journals. landmark judgment",
+    "documents": [
+      {
+        "title": "Skip to content",
+        "url": "#content",
+        "snippet": "Skip to contentLaw School Doesn't Teach You This!Click hereLearnLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesJobsInternship OpportunitiesInternship ExperiencesCompanyGovernmentIPRJudgeLaw FirmLawyerNGO and Res",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083140.206731
+      },
+      {
+        "title": "Click here",
+        "url": "https://www.lawctopus.com/14-practical-courses-skilled-lawyer-lls/",
+        "snippet": "Click here",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083140.206731
+      },
+      {
+        "title": "Live courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/live-sessions-courses/",
+        "snippet": "Live courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083140.206732
+      },
+      {
+        "title": "Self-paced courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/self-paced-courses/",
+        "snippet": "Self-paced courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083140.206732
+      },
+      {
+        "title": "Test-prep courses",
+        "url": "https://www.lawctopuslawschool.com/test-prep-courses/",
+        "snippet": "Test-prep courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083140.206732
+      }
+    ],
+    "search_url": "https://www.lawctopus.com/?s=Search+academic+databases+like+JSTOR%2C+HeinOnline%2C+and+Westlaw+for+relevant+articles+and+journals.+landmark+judgment"
+  },
+  "timestamp": 1748083140.2069418
+}

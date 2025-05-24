@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "lawctopus",
+    "source_type": "legal",
+    "query": "Use specific keywords like 'right to privacy in India', 'Indian Constitution', 'Supreme Court judgments', and 'data protection'. High Court",
+    "documents": [
+      {
+        "title": "Skip to content",
+        "url": "#content",
+        "snippet": "Skip to contentLaw School Doesn't Teach You This!Click hereLearnLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesJobsInternship OpportunitiesInternship ExperiencesCompanyGovernmentIPRJudgeLaw FirmLawyerNGO and Res",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083153.2387688
+      },
+      {
+        "title": "Click here",
+        "url": "https://www.lawctopus.com/14-practical-courses-skilled-lawyer-lls/",
+        "snippet": "Click here",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083153.2387688
+      },
+      {
+        "title": "Live courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/live-sessions-courses/",
+        "snippet": "Live courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083153.2387688
+      },
+      {
+        "title": "Self-paced courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/self-paced-courses/",
+        "snippet": "Self-paced courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083153.23877
+      },
+      {
+        "title": "Test-prep courses",
+        "url": "https://www.lawctopuslawschool.com/test-prep-courses/",
+        "snippet": "Test-prep courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748083153.23877
+      }
+    ],
+    "search_url": "https://www.lawctopus.com/?s=Use+specific+keywords+like+%27right+to+privacy+in+India%27%2C+%27Indian+Constitution%27%2C+%27Supreme+Court+judgments%27%2C+and+%27data+protection%27.+High+Court"
+  },
+  "timestamp": 1748083153.239019
+}
