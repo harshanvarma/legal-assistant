@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "scc_online",
+    "source_type": "legal",
+    "query": "recent Case law searches using online databases, such as SCC Online and LawDesk",
+    "documents": [
+      {
+        "title": "WEB EDITION",
+        "url": "/web-edition",
+        "snippet": "WEB EDITION",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115787.4762628
+      },
+      {
+        "title": "DATA COVERAGE",
+        "url": "javascript:void(0);",
+        "snippet": "DATA COVERAGEWEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115787.476264
+      },
+      {
+        "title": "WEB EDITION",
+        "url": "/data-coverage",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115787.476264
+      },
+      {
+        "title": "TAX EDITION",
+        "url": "/data-coverage-tax-edition",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115787.476265
+      },
+      {
+        "title": "CASE FINDER®",
+        "url": "/data-coverage-case-finder",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115787.476265
+      }
+    ],
+    "search_url": "https://www.scconline.com/?q=recent+Case+law+searches+using+online+databases%2C+such+as+SCC+Online+and+LawDesk"
+  },
+  "timestamp": 1748115787.476303
+}

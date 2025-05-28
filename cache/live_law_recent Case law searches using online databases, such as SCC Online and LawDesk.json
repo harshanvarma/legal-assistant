@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "live_law",
+    "source_type": "legal",
+    "query": "recent Case law searches using online databases, such as SCC Online and LawDesk",
+    "documents": [],
+    "search_url": "https://www.livelaw.in/search?q=recent+Case+law+searches+using+online+databases%2C+such+as+SCC+Online+and+LawDesk"
+  },
+  "timestamp": 1748115788.447175
+}

@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "bar_bench",
+    "source_type": "legal",
+    "query": "Database searches using academic and legal databases, such as JSTOR, Westlaw, and LexisNexis judgment",
+    "documents": [],
+    "search_url": "https://www.barandbench.com/search?q=Database+searches+using+academic+and+legal+databases%2C+such+as+JSTOR%2C+Westlaw%2C+and+LexisNexis+judgment"
+  },
+  "timestamp": 1748115737.337729
+}

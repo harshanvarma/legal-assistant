@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "manupatra",
+    "source_type": "legal",
+    "query": "Case law searches using online databases, such as SCC Online and LawDesk 2020-2024",
+    "documents": [
+      {
+        "title": "INTERNATIONAL",
+        "url": "/Defaults/contentcoverage.aspx",
+        "snippet": "INTERNATIONAL",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115748.316166
+      },
+      {
+        "title": "WEEKLY WRAP",
+        "url": "https://www.manupatrafast.com/weekly-legal-updates/",
+        "snippet": "WEEKLY WRAP",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115748.3161669
+      },
+      {
+        "title": "Legal Research",
+        "url": "Home.aspx",
+        "snippet": "Legal Research",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115748.3161669
+      },
+      {
+        "title": "Litigation Management",
+        "url": "https://www.mykase.in/",
+        "snippet": "Litigation Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115748.3161669
+      },
+      {
+        "title": "Notice Management",
+        "url": "https://www.mykase.in/notice-management-solution",
+        "snippet": "Notice Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115748.3161669
+      }
+    ],
+    "search_url": "https://www.manupatrafast.com/?q=Case+law+searches+using+online+databases%2C+such+as+SCC+Online+and+LawDesk+2020-2024"
+  },
+  "timestamp": 1748115748.3161962
+}

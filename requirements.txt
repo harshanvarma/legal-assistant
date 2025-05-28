@@ -4,7 +4,6 @@ beautifulsoup4
 selenium
 nltk
 scikit-learn
-numpy
 pandas
 python-dotenv
 aiohttp

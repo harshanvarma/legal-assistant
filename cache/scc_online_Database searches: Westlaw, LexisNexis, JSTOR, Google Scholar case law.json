@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "scc_online",
+    "source_type": "legal",
+    "query": "Database searches: Westlaw, LexisNexis, JSTOR, Google Scholar case law",
+    "documents": [
+      {
+        "title": "WEB EDITION",
+        "url": "/web-edition",
+        "snippet": "WEB EDITION",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748171147.694732
+      },
+      {
+        "title": "DATA COVERAGE",
+        "url": "javascript:void(0);",
+        "snippet": "DATA COVERAGEWEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748171147.694732
+      },
+      {
+        "title": "WEB EDITION",
+        "url": "/data-coverage",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748171147.6947331
+      },
+      {
+        "title": "TAX EDITION",
+        "url": "/data-coverage-tax-edition",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748171147.6947331
+      },
+      {
+        "title": "CASE FINDER®",
+        "url": "/data-coverage-case-finder",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748171147.6947331
+      }
+    ],
+    "search_url": "https://www.scconline.com/?q=Database+searches%3A+Westlaw%2C+LexisNexis%2C+JSTOR%2C+Google+Scholar+case+law"
+  },
+  "timestamp": 1748171147.694755
+}

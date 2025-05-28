@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "manupatra",
+    "source_type": "legal",
+    "query": "International law searches using databases such as HeinOnline and the International Court of Justice website landmark judgment",
+    "documents": [
+      {
+        "title": "INTERNATIONAL",
+        "url": "/Defaults/contentcoverage.aspx",
+        "snippet": "INTERNATIONAL",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115753.3962529
+      },
+      {
+        "title": "WEEKLY WRAP",
+        "url": "https://www.manupatrafast.com/weekly-legal-updates/",
+        "snippet": "WEEKLY WRAP",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115753.3962529
+      },
+      {
+        "title": "Legal Research",
+        "url": "Home.aspx",
+        "snippet": "Legal Research",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115753.3962529
+      },
+      {
+        "title": "Litigation Management",
+        "url": "https://www.mykase.in/",
+        "snippet": "Litigation Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115753.396254
+      },
+      {
+        "title": "Notice Management",
+        "url": "https://www.mykase.in/notice-management-solution",
+        "snippet": "Notice Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115753.396254
+      }
+    ],
+    "search_url": "https://www.manupatrafast.com/?q=International+law+searches+using+databases+such+as+HeinOnline+and+the+International+Court+of+Justice+website+landmark+judgment"
+  },
+  "timestamp": 1748115753.3962739
+}

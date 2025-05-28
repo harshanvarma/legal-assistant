@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "lawctopus",
+    "source_type": "legal",
+    "query": "Case law searches using online databases, such as SCC Online and LawDesk 2020-2024",
+    "documents": [
+      {
+        "title": "Skip to content",
+        "url": "#content",
+        "snippet": "Skip to contentLaw School Doesn't Teach You This!Click hereLearnLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesJobsInternship OpportunitiesInternship ExperiencesCompanyGovernmentIPRJudgeLaw FirmLawyerNGO and Res",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115762.0837069
+      },
+      {
+        "title": "Click here",
+        "url": "https://www.lawctopus.com/14-practical-courses-skilled-lawyer-lls/",
+        "snippet": "Click here",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115762.0837078
+      },
+      {
+        "title": "Live courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/live-sessions-courses/",
+        "snippet": "Live courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115762.083709
+      },
+      {
+        "title": "Self-paced courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/self-paced-courses/",
+        "snippet": "Self-paced courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115762.083709
+      },
+      {
+        "title": "Test-prep courses",
+        "url": "https://www.lawctopuslawschool.com/test-prep-courses/",
+        "snippet": "Test-prep courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115762.083709
+      }
+    ],
+    "search_url": "https://www.lawctopus.com/?s=Case+law+searches+using+online+databases%2C+such+as+SCC+Online+and+LawDesk+2020-2024"
+  },
+  "timestamp": 1748115762.0840058
+}

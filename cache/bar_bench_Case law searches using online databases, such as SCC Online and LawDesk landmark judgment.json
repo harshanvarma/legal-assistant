@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "bar_bench",
+    "source_type": "legal",
+    "query": "Case law searches using online databases, such as SCC Online and LawDesk landmark judgment",
+    "documents": [],
+    "search_url": "https://www.barandbench.com/search?q=Case+law+searches+using+online+databases%2C+such+as+SCC+Online+and+LawDesk+landmark+judgment"
+  },
+  "timestamp": 1748115770.640546
+}

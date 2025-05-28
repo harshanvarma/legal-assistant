@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "manupatra",
+    "source_type": "legal",
+    "query": "Database searches using academic and legal databases, such as JSTOR, Westlaw, and LexisNexis case law",
+    "documents": [
+      {
+        "title": "INTERNATIONAL",
+        "url": "/Defaults/contentcoverage.aspx",
+        "snippet": "INTERNATIONAL",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115723.602633
+      },
+      {
+        "title": "WEEKLY WRAP",
+        "url": "https://www.manupatrafast.com/weekly-legal-updates/",
+        "snippet": "WEEKLY WRAP",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115723.602634
+      },
+      {
+        "title": "Legal Research",
+        "url": "Home.aspx",
+        "snippet": "Legal Research",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115723.602634
+      },
+      {
+        "title": "Litigation Management",
+        "url": "https://www.mykase.in/",
+        "snippet": "Litigation Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115723.602635
+      },
+      {
+        "title": "Notice Management",
+        "url": "https://www.mykase.in/notice-management-solution",
+        "snippet": "Notice Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748115723.602635
+      }
+    ],
+    "search_url": "https://www.manupatrafast.com/?q=Database+searches+using+academic+and+legal+databases%2C+such+as+JSTOR%2C+Westlaw%2C+and+LexisNexis+case+law"
+  },
+  "timestamp": 1748115723.602658
+}

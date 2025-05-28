@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "live_law",
+    "source_type": "legal",
+    "query": "Case law searches using online databases, such as SCC Online and LawDesk constitutional",
+    "documents": [],
+    "search_url": "https://www.livelaw.in/search?q=Case+law+searches+using+online+databases%2C+such+as+SCC+Online+and+LawDesk+constitutional"
+  },
+  "timestamp": 1748115775.69831
+}

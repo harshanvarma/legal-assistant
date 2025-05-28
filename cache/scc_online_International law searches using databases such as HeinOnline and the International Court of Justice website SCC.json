@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "scc_online",
+    "source_type": "legal",
+    "query": "International law searches using databases such as HeinOnline and the International Court of Justice website SCC",
+    "documents": [
+      {
+        "title": "WEB EDITION",
+        "url": "/web-edition",
+        "snippet": "WEB EDITION",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115726.6146529
+      },
+      {
+        "title": "DATA COVERAGE",
+        "url": "javascript:void(0);",
+        "snippet": "DATA COVERAGEWEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115726.614654
+      },
+      {
+        "title": "WEB EDITION",
+        "url": "/data-coverage",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115726.614654
+      },
+      {
+        "title": "TAX EDITION",
+        "url": "/data-coverage-tax-edition",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115726.614655
+      },
+      {
+        "title": "CASE FINDER®",
+        "url": "/data-coverage-case-finder",
+        "snippet": "WEB EDITIONTAX EDITIONCASE FINDER®",
+        "type": "unknown",
+        "source_name": "scc_online",
+        "source_type": "legal",
+        "extracted_at": 1748115726.614655
+      }
+    ],
+    "search_url": "https://www.scconline.com/?q=International+law+searches+using+databases+such+as+HeinOnline+and+the+International+Court+of+Justice+website+SCC"
+  },
+  "timestamp": 1748115726.614707
+}

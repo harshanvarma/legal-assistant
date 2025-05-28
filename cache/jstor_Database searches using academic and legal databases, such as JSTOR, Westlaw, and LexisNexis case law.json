@@ -1,0 +1,11 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "jstor",
+    "source_type": "academic",
+    "query": "Database searches using academic and legal databases, such as JSTOR, Westlaw, and LexisNexis case law",
+    "documents": [],
+    "search_url": "https://www.jstor.org/action/doBasicSearch?Query=Database+searches+using+academic+and+legal+databases%2C+such+as+JSTOR%2C+Westlaw%2C+and+LexisNexis+case+law+law+india"
+  },
+  "timestamp": 1748115725.46375
+}

@@ -59,7 +59,7 @@ class ResearchCurator:
             'legal_judgments': [],
             'academic_papers': [],
             'legislative_materials': [],
-            'policy_documents': [],
+            'policy_documents': [],\
             'legal_commentary': [],
             'comparative_sources': []
         }

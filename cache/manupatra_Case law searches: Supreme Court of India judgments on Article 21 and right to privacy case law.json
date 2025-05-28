@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "manupatra",
+    "source_type": "legal",
+    "query": "Case law searches: Supreme Court of India judgments on Article 21 and right to privacy case law",
+    "documents": [
+      {
+        "title": "INTERNATIONAL",
+        "url": "/Defaults/contentcoverage.aspx",
+        "snippet": "INTERNATIONAL",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748171141.9038432
+      },
+      {
+        "title": "WEEKLY WRAP",
+        "url": "https://www.manupatrafast.com/weekly-legal-updates/",
+        "snippet": "WEEKLY WRAP",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748171141.903844
+      },
+      {
+        "title": "Legal Research",
+        "url": "Home.aspx",
+        "snippet": "Legal Research",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748171141.903844
+      },
+      {
+        "title": "Litigation Management",
+        "url": "https://www.mykase.in/",
+        "snippet": "Litigation Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748171141.903845
+      },
+      {
+        "title": "Notice Management",
+        "url": "https://www.mykase.in/notice-management-solution",
+        "snippet": "Notice Management",
+        "type": "unknown",
+        "source_name": "manupatra",
+        "source_type": "legal",
+        "extracted_at": 1748171141.903845
+      }
+    ],
+    "search_url": "https://www.manupatrafast.com/?q=Case+law+searches%3A+Supreme+Court+of+India+judgments+on+Article+21+and+right+to+privacy+case+law"
+  },
+  "timestamp": 1748171141.903869
+}

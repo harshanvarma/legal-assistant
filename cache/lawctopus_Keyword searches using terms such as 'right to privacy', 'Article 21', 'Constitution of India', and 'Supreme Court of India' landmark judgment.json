@@ -1,0 +1,57 @@
+{
+  "content": {
+    "success": true,
+    "source_name": "lawctopus",
+    "source_type": "legal",
+    "query": "Keyword searches using terms such as 'right to privacy', 'Article 21', 'Constitution of India', and 'Supreme Court of India' landmark judgment",
+    "documents": [
+      {
+        "title": "Skip to content",
+        "url": "#content",
+        "snippet": "Skip to contentLaw School Doesn't Teach You This!Click hereLearnLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesLive coursesSelf-paced coursesTest-prep coursesComprehensive CoursesJobsInternship OpportunitiesInternship ExperiencesCompanyGovernmentIPRJudgeLaw FirmLawyerNGO and Res",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115752.580182
+      },
+      {
+        "title": "Click here",
+        "url": "https://www.lawctopus.com/14-practical-courses-skilled-lawyer-lls/",
+        "snippet": "Click here",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115752.580183
+      },
+      {
+        "title": "Live courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/live-sessions-courses/",
+        "snippet": "Live courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115752.580183
+      },
+      {
+        "title": "Self-paced courses",
+        "url": "https://www.lawctopuslawschool.com/our-courses/self-paced-courses/",
+        "snippet": "Self-paced courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115752.580183
+      },
+      {
+        "title": "Test-prep courses",
+        "url": "https://www.lawctopuslawschool.com/test-prep-courses/",
+        "snippet": "Test-prep courses",
+        "type": "unknown",
+        "source_name": "lawctopus",
+        "source_type": "legal",
+        "extracted_at": 1748115752.580183
+      }
+    ],
+    "search_url": "https://www.lawctopus.com/?s=Keyword+searches+using+terms+such+as+%27right+to+privacy%27%2C+%27Article+21%27%2C+%27Constitution+of+India%27%2C+and+%27Supreme+Court+of+India%27+landmark+judgment"
+  },
+  "timestamp": 1748115752.58037
+}
