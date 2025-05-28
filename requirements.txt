@@ -5,6 +5,7 @@ selenium
 nltk
 scikit-learn
 pandas
+numpy
 python-dotenv
 aiohttp
 asyncio
