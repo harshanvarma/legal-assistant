@@ -9,14 +9,13 @@ Agent 2: Multi-Source Research Intelligence Engine
 import asyncio
 import aiohttp
 import time
-import json
-import re
 from urllib.parse import quote_plus, urljoin
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 import logging
 from utils import WebScraper, CacheManager, URLValidator
 from config import Config
+
 
 logger = logging.getLogger(__name__)
 
