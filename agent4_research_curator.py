@@ -7,7 +7,6 @@ Agent 4: Legal Research Curator
 """
 
 import json
-import re
 from collections import defaultdict
 from datetime import datetime
 import logging
